@@ -5,4 +5,4 @@ A Simple project made with HTML and CSS trying to copy a frontend mentor challen
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./img/screenshot.png)
