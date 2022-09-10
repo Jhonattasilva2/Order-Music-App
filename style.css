@@ -23,7 +23,7 @@
 .card {
     background-color: #FFF;
     max-width: 350px;
-    min-height: 80%;
+    max-height: 80%;
     border-radius: 1rem;
     box-shadow: -1px 23px 45px -9px hsl(224, 23%, 55%);
 }
